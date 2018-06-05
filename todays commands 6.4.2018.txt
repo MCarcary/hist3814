@@ -1,0 +1,44 @@
+   1  http://archive.org/stream/diplomaticcorre33statgoog/diplomaticcorre33statgoog_djvu.txt > texas.txt
+    2  curl http://archive.org/stream/diplomaticcorre33statgoog/diplomaticcorre33statgoog_djvu.txt > texas.txt
+    3  nano texas txt.
+    4  nano texas.txt
+    5  history > todayscommands.md
+
+I forgot the period after Texas silly me   
+  1  http://archive.org/stream/diplomaticcorre33statgoog/diplomaticcorre33statgoog_djvu.txt > texas.txt
+    2  curl http://archive.org/stream/diplomaticcorre33statgoog/diplomaticcorre33statgoog_djvu.txt > texas.txt
+    3  nano texas txt.
+    4  nano texas.txt
+    5  history > todayscommands.md
+    6  nano texas.txt
+    7  grep '\bto\b' texas.txt
+    8  $ sed -r -i.bak 's/(.+\bto\b.+)/~\1/g' texas.txt
+    9  nano texas.txt
+   10  grep 'to' texas.txt
+   11  grep '\bto\b' texas.txt
+   12  nano texas.txt
+   13  $ sed -r -i.bak 's/(.+\bto\b.+)/~\1/g' texas.txt
+   14  history > todayscommands. md
+   15  sed -r -i.bak 's/(.+\bto\b.+)/~\1/g' texas.txt
+   16  ls
+   17  texas.txt.bak
+   18  nano texas.txt
+   19  history > todayscommands.md
+
+I wasn’t realizing why the sed wasn’t working as I always found it to say command not found until I left the computer for a bit and it magically worked. 
+
+    1  sed -r -i.bak 's(,)( [0-9]{4})(.+)/\2/g' index.txt
+    2  sed -r -i.bak 's/(,)( [0-9]{4})(.+)/\2/g' index.txt
+    3  nano index.txt
+    4  sed -r -i.bak 's/~//g' index.txt
+    5  nano index.txt
+    6  sed -r -i.bak 's/(\b to \b)/,/g' index.txt
+    7  nano index.txt
+    8  cp index.txt cleaned-correspondence.csv
+    9  nano index.txt
+   10  nano index txt
+   11  nano index.txt
+   12  history > todayscommands.md
+
+There are so many nano index.txt because I chose the wrong file to upload to DH box so it was not finding it. I also did the cp index.txt too soon oops. 
+
